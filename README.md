@@ -1,0 +1,2 @@
+# SamaGausss
+Suma de Gausss
